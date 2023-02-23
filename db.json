@@ -1,0 +1,54 @@
+{
+    "product" : [
+
+
+    {
+      "id": 1,
+      "name": "Lemon",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1666781140/image11.png",
+      "price": "$4.90"
+    },
+    {
+      "id": 2,
+      "name": "Green Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1666781140/image1_.png",
+      "price": "$50.00"
+    },
+    {
+      "id": 3,
+      "name": "Strawberry Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1666781218/imagethe.png",
+      "price": "$900.00"
+    },
+    {
+      "id": 4,
+      "name": "Lemon Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1666781140/image11.png",
+      "price": "$2000"
+    },
+    {
+      "id": 5,
+      "name": "Purple Light Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1669891362/image4.png",
+      "price": "$5900"
+    },
+    {
+      "id": 6,
+      "name": "Red Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1669891362/image3.png",
+      "price": "$4500"
+    },
+    {
+      "id": 7,
+      "name": "Brown Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1669891362/image2.png",
+      "price": "$8000"
+    },
+    {
+      "id": 8,
+      "name": "Light Br Candle",
+      "img": "https://res.cloudinary.com/oluwaloni/image/upload/v1669891362/image_1.png",
+      "price": "$5000"
+    }
+  ]
+}
